@@ -1,7 +1,7 @@
 Scraper simples que extrai informações do site leilaoimovel.com.br
 
 Que informações ele  trás:
-- Todas informações possíveis do imóvel, como endereço, valor etc
+- Todas informações possíveis dos imóveis, como endereço, valor etc
 - Baixa o PDF do Edital automaticamente para a pasta Editais
 
 Como usar:
